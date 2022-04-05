@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sristy</h1>
+<h1 align="center">Hi 👋, I'm Sristy<img src="https://user-images.githubusercontent.com/22479692/123993008-feb42100-d9c3-11eb-8eae-589fe476f3a2.gif" width="40"></h1>
+
+<img align='right' src="https://user-images.githubusercontent.com/22479692/123986644-65364080-d9be-11eb-8f4f-857c21e774fb.gif" width="400" height="400">
 <h3 align="center">A passionate Software developer who loves coding and development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sristy-31&label=Profile%20views&color=0e75b6&style=flat" alt="sristy-31" /> </p>
@@ -13,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sristy-70717a179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sristy-70717a179/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sristy31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sristy-70717a179/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sristy31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sristy31" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@sristy310399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sristy310399" height="30" width="40" /></a>
 </p>
