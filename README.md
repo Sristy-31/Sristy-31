@@ -1,3 +1,4 @@
+<img align='center' height='300px' width='1000px' src="https://github.com/Sristy-31/Sristy-31/blob/master/gif_banner.gif" width="400" height="400">
 <h1 align="center">Hi 👋, I'm Sristy<img src="https://user-images.githubusercontent.com/22479692/123993008-feb42100-d9c3-11eb-8eae-589fe476f3a2.gif" width="40"></h1>
 
 <img align='right' src="https://user-images.githubusercontent.com/22479692/123986644-65364080-d9be-11eb-8f4f-857c21e774fb.gif" width="400" height="400">
